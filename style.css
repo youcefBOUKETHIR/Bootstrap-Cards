@@ -1,0 +1,61 @@
+
+.btn-group {
+    margin-bottom: 10px; 
+    text-align: center;
+    align-items: center;
+}
+
+.btn-group button {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #117895;
+    box-shadow: 1px 1px 1px 1px #117895;
+}
+.custom-button {
+    background-color: black; 
+    
+    color: #fff; 
+    border-radius: 20px;
+    align-items: center;
+    text-decoration: none;
+    padding: 10px;
+
+}
+text{
+    color: #117895;
+    margin-top: 40px;
+}
+h4{
+    margin-top: 30px;
+    text-align: center;
+}
+.shadow-sm{
+    box-shadow: 2px 2px 2px 2px #117895;
+
+}
+.back a{
+    
+    text-decoration: none;
+    color: #fff;
+}
+.back a:hover{
+    
+    text-decoration: none;
+    color: #fff;
+    background-color: #117895;
+    
+}
+.back{
+    border-radius: 15px;
+    text-decoration: none;
+    box-shadow: 1px 1px 1px 1px #020202;
+    background-color: #117895;
+    
+    width: 100%;
+}
+footer{
+    background-color: #EEF3F4;
+}
+
